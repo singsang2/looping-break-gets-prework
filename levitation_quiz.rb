@@ -6,7 +6,7 @@ def levitation_quiz
   	
   	break if spell == "Wingardium Leviosa"
   end
-  puts "You pass "
+  puts "You passed the quiz!"
 end
 
 
